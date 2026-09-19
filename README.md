@@ -83,6 +83,12 @@
   <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raziabegum705/raziabegum705/output/pacman-contribution-graph-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raziabegum705/raziabegum705/output/pacman-contribution-graph.svg?v=2">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raziabegum705/raziabegum705/output/pacman-contribution-graph.svg?v=2">
+</picture>
+
 <!-- ─── TOOLKIT ───────────────────────────────────────────────────────── -->
 
 <div align="center">
