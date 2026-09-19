@@ -1,14 +1,12 @@
-name: Generate Pac-Man Contribution Graph
+name: Generate Pac-Man contribution graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:          # lets you run it manually
   push:
     branches:
-      - main
+      - main                  # change to master if your default branch is master
 
 permissions:
   contents: write
@@ -16,17 +14,14 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
+    timeout-minutes: 5
     steps:
-      - name: Generate Pac-Man contribution graph
+      - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          games: "pacman"
 
-      - name: Publish Pac-Man graph
+      - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
