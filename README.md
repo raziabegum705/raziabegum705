@@ -1,228 +1,182 @@
+<!-- ─────────────────────────────────────────────────────────────────────── -->
+<!--  Painterly profile README — watercolor palette                        -->
+<!-- ─────────────────────────────────────────────────────────────────────── -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:54278f,25:6a4c93,50:7b68a8,75:2a9d8f,100:1f6f78&height=240&section=header&text=Razia%20Developer&fontSize=64&fontColor=fafafa&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20%E2%80%A2%20Building%20real-world%20products&descAlignY=62&descSize=17&descColor=fafafa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4b75,25:546988,50:9a5555,75:b87a3d,100:7d4a2a&height=240&section=header&text=Shaik%20Razia%20Begum&fontSize=54&fontColor=fafafa&fontAlignY=40&desc=Full-Stack%20MERN%20Developer%20%E2%80%A2%20AI-powered%20products%20%E2%80%A2%20DSA&descAlignY=62&descSize=17&descColor=fafafa&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=20\&pause=1500\&color=8F6FAE\&center=true\&vCenter=true\&width=760\&lines=Building+full-stack+applications;Strengthening+DSA+with+Java;Turning+ideas+into+real-world+products;Learning+Cloud+%26+AI;Solving+problems+one+step+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=B87A3D&center=true&vCenter=true&width=640&lines=Building+full-stack+MERN+products;Wiring+Gemini+into+real+workflows;Solving+DSA+one+problem+at+a+time;Google+Solution+Challenge+2026+Participant;Aiming+for+product-based+companies)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
+<!-- ─── ABOUT ─────────────────────────────────────────────────────────── -->
+
 <div align="center">
-  <sub><b>· &nbsp; A B O U T &nbsp; M E &nbsp; ·</b></sub>
+  <sub><b>· &nbsp; A B O U T &nbsp; ·</b></sub>
 </div>
 
-### The short version
+### &nbsp;&nbsp;The short version
 
-<img align="right" width="220" src="https://gifdb.com/images/high/lofi-train-alone-chilling-b78fxpec0se4ttjl.gif" alt="lofi coding"/>
+<img align="right" width="220" src="https://gifdb.com/images/high/lofi-train-alone-chilling-b78fxpec0se4ttjl.gif" alt="lofi train" style="border-radius: 16px; margin-left: 20px"/>
 
-Third-year B.Tech student and aspiring software engineer, passionate about building practical software and solving real-world problems with code.
-
-<br/><br/>
-
-Currently focused on **Java + DSA**, full-stack web development, and exploring **Cloud & AI** while building projects that automate real-world workflows.
-
-<br/><br/>
-
-I enjoy turning manual processes into simple, useful applications — from attendance automation to developer-focused projects.
+&nbsp;&nbsp;3rd-year B.Tech CSE student at Gates Institute of Technology, Gooty<br/>
+&nbsp;&nbsp;(2024 – 2028, CGPA 8.47). I build full-stack apps with secure auth,<br/>
+&nbsp;&nbsp;concurrent multi-user workflows, and AI features that remove manual<br/>
+&nbsp;&nbsp;work. Currently looking for software engineering internships.
 
 <br clear="right"/>
 
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
+
+<!-- ─── RECENT ────────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <sub><b>· &nbsp; H I G H L I G H T S &nbsp; ·</b></sub>
+
+  <br/><br/>
+
+  <table>
+    <tbody>
+      <tr>
+        <td align="center">🏆<br/><b>Google Solution Challenge 2026</b><br/><sub>Participant · built Nexus</sub></td>
+        <td align="center">☁️<br/><b>Google Cloud Arcade 2026</b><br/><sub>Facilitator · Compute, BigQuery, Vertex AI</sub></td>
+        <td align="center">🌱<br/><b>GSSoC 2026</b><br/><sub>Selected contributor · Open Source & AI/Agents</sub></td>
+      </tr>
+      <tr>
+        <td align="center">📣<br/><b>GfG Campus Mantri 2026</b><br/><sub>Ambassador · tech course outreach</sub></td>
+        <td align="center">🧩<br/><b>250+ LeetCode problems</b><br/><sub>100 Days badge</sub></td>
+        <td align="center">🎓<br/><b>IIT Delhi EDC</b><br/><sub>Certified in AI & Python</sub></td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+
 <br/>
 
 <div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:54278f,50:7b68a8,100:1f6f78&height=3&section=header" alt=""/>
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
+
+<!-- ─── FIND ME ───────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <sub><b>· &nbsp; F I N D &nbsp; M E &nbsp; ·</b></sub>
+
+  <br/><br/>
+
+  <a href="https://github.com/raziabegum705"><img src="https://img.shields.io/badge/GitHub-raziabegum705-1b4b75?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/s-razia-570015334"><img src="https://img.shields.io/badge/LinkedIn-Razia-546988?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:raziabegum37567@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-b87a3d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+  <br/><br/>
 </div>
 
 <div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
 
-<sub><b>·   F I N D   M E   ·</b></sub>
+<!-- ─── TOOLKIT ───────────────────────────────────────────────────────── -->
 
-<br/><br/>
+<div align="center">
+  <sub><b>· &nbsp; T O O L K I T &nbsp; ·</b></sub>
 
-<a href="https://github.com/raziabegum705">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,py,js,html,css&theme=light" alt="languages"/>
 </a>
-
-<a href="https://www.linkedin.com/in/s-razia-570015334/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap&theme=light" alt="frameworks"/>
 </a>
-
-<a href="https://discord.gg/k5z3AhJK">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" alt="databases"/>
 </a>
-
-</div>
-
 <br/>
-
-<div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:54278f,50:7b68a8,100:1f6f78&height=3&section=header" alt=""/>
-</div>
-
-<div align="center">
-
-<sub><b>·   C O N T R I B U T I O N S   ·</b></sub>
-
-<br/><br/>
-
-<img
-src="https://raw.githubusercontent.com/raziabegum705/raziabegum705/output/pacman-contribution-graph.svg"
-width="100%"
-alt="Pac-Man contribution graph"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:54278f,50:7b68a8,100:1f6f78&height=3&section=header" alt=""/>
-</div>
-
-<div align="center">
-
-<sub><b>·   T O O L K I T   ·</b></sub>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark" alt="Frontend technologies"/>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java&theme=dark" alt="Backend technologies"/>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,googlecloud&theme=dark" alt="Development tools and cloud"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:54278f,50:7b68a8,100:1f6f78&height=3&section=header" alt=""/>
-</div>
-
-<div align="center">
-
-<sub><b>·   C U R R E N T L Y   B U I L D I N G   ·</b></sub>
-
-<br/><br/>
-
-</div>
-
-### 🧩 Full-Stack Development
-
-Building applications with **React, Node.js, Express and MongoDB**, with a focus on clean APIs and practical user workflows.
-
-### ☕ Java + DSA
-
-Strengthening problem-solving skills through **Java, Data Structures & Algorithms**, competitive programming and interview preparation.
-
-### ☁️ Cloud
-
-Exploring **Google Cloud**, cloud services, developer tools and practical cloud-based workflows.
-
-### 🤖 AI
-
-Exploring **AI-powered applications and developer tools** while learning how AI can be integrated into real products.
-
-<br/>
-
-<div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:54278f,50:7b68a8,100:1f6f78&height=3&section=header" alt=""/>
-</div>
-
-<div align="center">
-
-<sub><b>·   F E A T U R E D   P R O J E C T S   ·</b></sub>
-
-<br/><br/>
-
-</div>
-
-### 🎓 Attendance Alert Portal
-
-**Automated attendance and excuse workflow**
-
-**Stack:** React · Node.js · Express · MongoDB
-
-[View Repository →](https://github.com/raziabegum705/attendence-portal)
-
----
-
-### 🚀 Nexus
-
-**Full-stack application project**
-
-**Stack:** React · JavaScript · Full Stack
-
-[View Repository →](https://github.com/raziabegum705/nexus)
-
----
-
-### ☕ DSA Journey
-
-**Learning and problem-solving repository**
-
-**Stack:** Java · DSA
-
-[View Repository →](https://github.com/raziabegum705/DSA-journey)
-
----
-
-### 🌦️ Weather App
-
-**Weather information application**
-
-**Stack:** JavaScript · API · Web
-
-[View Repository →](https://github.com/raziabegum705/whether-app)
-
----
-
-### ✅ To-Do List
-
-**Simple productivity application**
-
-**Stack:** HTML · CSS · JavaScript
-
-[View Repository →](https://github.com/raziabegum705/To-do-list)
-
-<br/>
-
-<div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:54278f,50:7b68a8,100:1f6f78&height=3&section=header" alt=""/>
-</div>
-
-<div align="center">
-
-<sub><b>·   G I T H U B   ·</b></sub>
-
-<br/><br/>
-
-<a href="https://github.com/raziabegum705">
-  <img src="https://img.shields.io/github/followers/raziabegum705?style=for-the-badge&label=Followers" alt="GitHub followers"/>
-</a>
-
-<a href="https://github.com/raziabegum705?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View%20All-8F6FAE?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
-
-<a href="https://github.com/raziabegum705?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-View%20Stars-2A9D8F?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,gcp,vercel&theme=light" alt="tools + cloud"/>
 </a>
 
 <br/><br/>
-
-<b>Building. Learning. Solving. Repeating. 🚀</b>
+<sub>Also: Axios · Recharts · JWT · Nodemailer · SheetJS · Render · Gemini API · Twilio</sub>
+<br/>
+<sub>Core CS: DSA · OOP · DBMS · OS · Computer Networks · Concurrency · Distributed Systems basics</sub>
 
 </div>
 
 <br/>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6f78,25:2a9d8f,50:7b68a8,75:6a4c93,100:54278f&height=120&section=footer&animation=fadeIn"
-width="100%"/>
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
+
+<!-- ─── FEATURED ──────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <sub><b>· &nbsp; F E A T U R E D &nbsp; ·</b></sub>
+
+  <br/><br/>
+
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Project</th>
+        <th align="center">Stack</th>
+        <th align="center">Live</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><b><a href="https://github.com/raziabegum705">Nexus</a></b><br/><sub>AI disaster-logistics platform · cascade failure simulator · real-time tracking</sub></td>
+        <td align="center">Gemini AI · Google Cloud</td>
+        <td align="center"><a href="https://github.com/raziabegum705">site →</a></td>
+      </tr>
+      <tr>
+        <td align="center"><b><a href="https://github.com/raziabegum705">Student Attendance Alert Portal</a></b><br/><sub>role-based Teacher/HoD system · email + WhatsApp alerts below 75%</sub></td>
+        <td align="center">MERN · Tailwind · SheetJS · Nodemailer · Gemini</td>
+        <td align="center"><a href="https://github.com/raziabegum705">site →</a></td>
+      </tr>
+      <tr>
+        <td align="center"><b><a href="https://github.com/raziabegum705">Job Application Tracker</a></b><br/><sub>JWT-secured CRUD · search, filters · analytics dashboard</sub></td>
+        <td align="center">MERN · JWT · Axios · Recharts</td>
+        <td align="center"><a href="https://github.com/raziabegum705">site →</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
+
+<!-- ─── STATS ─────────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <sub><b>· &nbsp; S T A T S &nbsp; ·</b></sub>
+
+  <br/><br/>
+
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=raziabegum705&bg_color=FAFAFA&color=1B4B75&line=B87A3D&point=9A5555&area=true&area_color=1B4B75&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
+
+  <br/><br/>
+
+  <img height="170" src="https://streak-stats.demolab.com?user=raziabegum705&hide_border=true&background=FAFAFA&stroke=E4E4E7&ring=1B4B75&fire=B87A3D&currStreakLabel=1B4B75&sideLabels=18181B&dates=71717A&currStreakNum=18181B&sideNums=18181B" alt="streak"/>
+
+</div>
+
+<br/>
+
+<!-- ─── FOOTER ────────────────────────────────────────────────────────── -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7d4a2a,25:b87a3d,50:9a5555,75:546988,100:1b4b75&height=120&section=footer&animation=fadeIn" width="100%"/>
