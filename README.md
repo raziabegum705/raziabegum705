@@ -24,8 +24,8 @@
 
 <img align="right" width="220" src="https://gifdb.com/images/high/lofi-train-alone-chilling-b78fxpec0se4ttjl.gif" alt="lofi train" style="border-radius: 16px; margin-left: 20px"/>
 
-&nbsp;&nbsp;3rd-year B.Tech CSE student at Gates Institute of Technology, Gooty<br/>
-&nbsp;&nbsp;(2024 – 2028, CGPA 8.47). I build full-stack apps with secure auth,<br/>
+&nbsp;&nbsp;3rd-year B.Tech CSE student <br/>
+&nbsp;&nbsp;I build full-stack apps with secure auth,<br/>
 &nbsp;&nbsp;concurrent multi-user workflows, and AI features that remove manual<br/>
 &nbsp;&nbsp;work. Currently looking for software engineering internships.
 
@@ -170,10 +170,6 @@
 
 <div align="center">
   <sub><b>· &nbsp; S T A T S &nbsp; ·</b></sub>
-
-  <br/><br/>
-
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=raziabegum705&bg_color=FAFAFA&color=1B4B75&line=B87A3D&point=9A5555&area=true&area_color=1B4B75&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
 
   <br/><br/>
 
